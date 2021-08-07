@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recycle">My RecyclerView </string>
+    <string-array name="store_names">
+        <item> David\'s FishHouse</item>
+        <item> Toys are MINE </item>
+        <item> Ovad\'s Sabich </item>
+        <item> Groceriesa </item>
+        <item> A Store </item>
+        <item> Chipotle </item>
+    </string-array>
+
+    <string-array name="store_description">
+        <item> FISHFISHFISH</item>
+        <item> Toys are MINE... sorry </item>
+        <item> Best dish in the planet baby </item>
+        <item> Groceriesa - not cheap is our motto </item>
+        <item> A Store with no items </item>
+        <item> HOT, SPICY AND WITH CAPITAL LETTERS</item>
+    </string-array>
+</resources>

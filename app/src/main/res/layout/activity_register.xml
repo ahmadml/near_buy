@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".register">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="554dp"
+        android:layout_marginTop="4dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/log_in_title"
+        app:layout_constraintVertical_bias="0.0">
+
+        <Button
+            android:id="@+id/already_have_account"
+            android:layout_width="381dp"
+            android:layout_height="43dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:onClick="launchLoginActivity"
+            android:text="@string/already_have_account"
+            android:textColor="#FFFFFF"
+            app:backgroundTint="#039BE5" />
+
+        <Button
+            android:id="@+id/register_seller"
+            android:layout_width="381dp"
+            android:layout_height="43dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:text="Are you a seller? click"
+            android:textColor="#FFFFFF"
+            app:backgroundTint="#00897B" />
+
+        <EditText
+            android:id="@+id/full_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@color/white"
+            android:drawableStart="@drawable/ic_baseline_person"
+            android:drawableLeft="@drawable/ic_baseline_person"
+            android:drawablePadding="5dp"
+            android:ems="10"
+            android:hint="Full Name"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/Email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@color/white"
+            android:drawableStart="@drawable/ic_mail_whit"
+            android:drawableLeft="@drawable/ic_mail_whit"
+            android:drawablePadding="5dp"
+            android:ems="10"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@color/white"
+            android:drawableStart="@drawable/ic_lock_black"
+            android:drawableLeft="@drawable/ic_lock_black"
+            android:drawablePadding="5dp"
+            android:ems="10"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:longClickable="false"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/Confirm_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@color/white"
+            android:drawableStart="@drawable/ic_lock_black"
+            android:drawableLeft="@drawable/ic_lock_black"
+            android:drawablePadding="5dp"
+            android:ems="10"
+            android:hint="@string/confirm_pass"
+            android:inputType="textPassword"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@color/white"
+            android:drawableStart="@drawable/ic_baseline_phone_iphone_24"
+            android:drawableLeft="@drawable/ic_baseline_phone_iphone_24"
+            android:drawablePadding="5dp"
+            android:ems="10"
+            android:hint="Phone Number"
+            android:inputType="numberDecimal"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="15sp" />
+
+        <LinearLayout
+            android:id="@+id/address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/phone"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/gpsBt"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginRight="16dp"
+                android:background="@color/white"
+                android:src="@drawable/ic_baseline_gps" />
+
+            <EditText
+                android:id="@+id/addressCo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginLeft="1dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="18dp"
+                android:layout_marginRight="16dp"
+                android:background="@color/white"
+                android:drawableStart="@drawable/ic_baseline_location"
+                android:drawableLeft="@drawable/ic_baseline_location"
+                android:drawablePadding="5dp"
+                android:ems="10"
+                android:hint="Address"
+                android:inputType="textPostalAddress|textImeMultiLine"
+                android:padding="10dp"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/cityCo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginLeft="1dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="18dp"
+                android:layout_marginRight="16dp"
+                android:background="@color/white"
+                android:drawableStart="@drawable/ic_baseline_location"
+                android:drawableLeft="@drawable/ic_baseline_location"
+                android:drawablePadding="5dp"
+                android:ems="10"
+                android:hint="city only"
+                android:inputType="textPostalAddress|textImeMultiLine"
+                android:padding="10dp"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="15sp" />
+
+
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/Register_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@color/white"
+            android:text="Register"
+            android:textColor="#000000"
+            app:backgroundTint="#AEA6A6" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/arbutus"
+        android:text="Near-Buy"
+        android:textColor="#E1CB07"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.04" />
+
+    <TextView
+        android:id="@+id/log_in_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/amarante"
+        android:text="Let's create your account!"
+        android:textColor="@color/white"
+        android:textSize="26sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

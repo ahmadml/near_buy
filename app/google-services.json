@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160800982576",
+    "firebase_url": "https://near-buy-c8048.firebaseio.com",
+    "project_id": "near-buy-c8048",
+    "storage_bucket": "near-buy-c8048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160800982576:android:3d146597efde889fc80ff5",
+        "android_client_info": {
+          "package_name": "com.example.near_buy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160800982576-ionlpg4ak56g3ftrptgbiqu1pap4urpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBio4N4qKy8frD0KxvZUifkmOj10IPUhl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160800982576-ionlpg4ak56g3ftrptgbiqu1pap4urpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

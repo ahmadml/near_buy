@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.near_buy">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission
+        android:id="@+id/row_layout"
+        android:name="android.permission.INTERNET" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="false"
+        android:theme="@style/Theme.Nearbuy">
+        <activity android:name=".AddProductActivity"></activity>
+        <activity android:name=".shopDetailsActivity" />
+        <activity android:name=".MainUserActivity" />
+        <activity
+            android:name=".MainSellerActivity"
+            android:label="main_seller_activity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.near_buy.MainActivity" />
+        </activity>
+        <activity android:name=".RegisterSellerActivity" />
+        <activity
+            android:name=".single_store"
+            android:label="Details"
+            android:parentActivityName=".stores" />
+        <activity
+            android:name=".items"
+            android:label="Items Activity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.near_buy.MainActivity" />
+        </activity>
+        <activity
+            android:name=".stores"
+            android:label="Stores Activity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.near_buy.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ScrollingActivity"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/Theme.Nearbuy.NoActionBar" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".login"
+            android:label="Login Activity"
+            android:parentActivityName=".register">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.near_buy.register" />
+        </activity>
+        <activity
+            android:name=".Seller_main_activity"
+            android:label="Seller Main Activity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.near_buy.MainActivity" />
+        </activity>
+        <activity
+            android:name=".add_shop"
+            android:label="Add shop"
+            android:parentActivityName=".Seller_main_activity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.near_buy.Seller_main_activity" />
+        </activity>
+        <activity
+            android:name=".register"
+            android:label="Register Activity"
+            android:parentActivityName=".register" />
+
+        <activity android:name=".add_product_user_activity"></activity>
+
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.example.near_buy.MainActivity" />
+    </application>
+
+</manifest>

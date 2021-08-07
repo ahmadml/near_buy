@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="226dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="124dp"
+            android:layout_below="@+id/addShop"
+            android:layout_marginTop="-26dp"
+            app:srcCompat="@drawable/mylogo" />
+
+        <TextView
+            android:id="@+id/addShop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="50dp"
+            android:layout_marginStart="150dp"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="150dp"
+            android:layout_marginEnd="150dp"
+            android:layout_marginRight="150dp"
+            android:layout_marginBottom="150dp"
+            android:text="Add Store"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="201dp"
+            android:layout_below="@+id/imageView"
+            android:layout_marginTop="0.2dp">
+
+            <EditText
+                android:id="@+id/storeName"
+                android:layout_width="410dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginEnd="7dp"
+                android:layout_marginRight="7dp"
+                android:drawableStart="@drawable/ic_baseline_store_24"
+                android:drawableLeft="@drawable/ic_baseline_store_24"
+                android:ems="10"
+                android:hint="store name"
+                android:inputType="textPersonName" />
+
+            <EditText
+                android:id="@+id/storeLocation"
+                android:layout_width="410dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/storeName"
+                android:layout_marginEnd="-5dp"
+                android:layout_marginRight="-5dp"
+                android:drawableStart="@drawable/ic_baseline_gps"
+                android:ems="10"
+                android:hint="store location"
+                android:inputType="textPersonName"
+                android:drawableLeft="@drawable/ic_baseline_gps" />
+
+            <EditText
+                android:id="@+id/storeCategory"
+                android:layout_width="410dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/storeLocation"
+                android:layout_marginEnd="-5dp"
+                android:layout_marginRight="-5dp"
+                android:drawableStart="@drawable/ic_baseline_home_24"
+                android:ems="10"
+                android:hint="store category"
+                android:inputType="textPersonName"
+                android:drawableLeft="@drawable/ic_baseline_home_24" />
+
+            <EditText
+                android:id="@+id/Description"
+                android:layout_width="410dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/storeCategory"
+                android:layout_marginEnd="-5dp"
+                android:layout_marginRight="-5dp"
+                android:drawableStart="@drawable/ic_search_black_24dp"
+                android:ems="10"
+                android:hint="Description"
+                android:inputType="textPersonName"
+                android:drawableLeft="@drawable/ic_search_black_24dp" />
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="129dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="218dp"
+            android:layout_marginEnd="137dp"
+            android:layout_marginRight="137dp"
+            android:text="Add store" />
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,443 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.near_buy"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:5:5-81
+11-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission
+13-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:7:5-9:54
+14        android:id="@+id/row_layout"
+14-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:8:9-37
+15        android:name="android.permission.INTERNET" />
+15-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:9:9-51
+16
+17    <supports-screens
+17-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:11:5-16:40
+18        android:largeScreens="true"
+18-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:12:9-36
+19        android:normalScreens="true"
+19-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:13:9-37
+20        android:resizeable="true"
+20-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:14:9-34
+21        android:smallScreens="true"
+21-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:15:9-36
+22        android:xlargeScreens="true" />
+22-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:16:9-37
+23
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:24:5-79
+24-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:24:22-76
+25    <uses-permission android:name="android.permission.WAKE_LOCK" />
+25-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:25:5-68
+25-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:25:22-65
+26    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+26-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:26:5-110
+26-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:26:22-107
+27
+28    <application
+28-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:18:5-102:19
+29        android:name="androidx.multidex.MultiDexApplication"
+30        android:allowBackup="true"
+30-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:19:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.3.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\cdfea8f3da9d3d8e26bbb73a40c2de98\core-1.3.1\AndroidManifest.xml:24:18-86
+32        android:debuggable="true"
+33        android:icon="@mipmap/ic_launcher"
+33-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:20:9-43
+34        android:label="@string/app_name"
+34-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:21:9-41
+35        android:roundIcon="@mipmap/ic_launcher_round"
+35-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:22:9-54
+36        android:supportsRtl="false"
+36-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:23:9-36
+37        android:testOnly="true"
+38        android:theme="@style/Theme.Nearbuy" >
+38-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:24:9-45
+39        <activity android:name="com.example.near_buy.AddProductActivity" />
+39-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:25:9-65
+39-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:25:19-53
+40        <activity android:name="com.example.near_buy.shopDetailsActivity" />
+40-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:26:9-57
+40-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:26:19-54
+41        <activity android:name="com.example.near_buy.MainUserActivity" />
+41-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:27:9-54
+41-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:27:19-51
+42        <activity
+42-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:28:9-35:20
+43            android:name="com.example.near_buy.MainSellerActivity"
+43-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:29:13-47
+44            android:label="main_seller_activity"
+44-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:30:13-49
+45            android:parentActivityName="com.example.near_buy.MainActivity" >
+45-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:31:13-55
+46            <meta-data
+46-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:32:13-34:69
+47                android:name="android.support.PARENT_ACTIVITY"
+47-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:33:17-63
+48                android:value="com.example.near_buy.MainActivity" />
+48-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:34:17-66
+49        </activity>
+50        <activity android:name="com.example.near_buy.RegisterSellerActivity" />
+50-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:36:9-60
+50-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:36:19-57
+51        <activity
+51-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:37:9-40:52
+52            android:name="com.example.near_buy.single_store"
+52-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:38:13-41
+53            android:label="Details"
+53-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:39:13-36
+54            android:parentActivityName="com.example.near_buy.stores" />
+54-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:40:13-49
+55        <activity
+55-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:41:9-48:20
+56            android:name="com.example.near_buy.items"
+56-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:42:13-34
+57            android:label="Items Activity"
+57-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:43:13-43
+58            android:parentActivityName="com.example.near_buy.MainActivity" >
+58-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:44:13-55
+59            <meta-data
+59-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:32:13-34:69
+60                android:name="android.support.PARENT_ACTIVITY"
+60-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:33:17-63
+61                android:value="com.example.near_buy.MainActivity" />
+61-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:34:17-66
+62        </activity>
+63        <activity
+63-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:49:9-56:20
+64            android:name="com.example.near_buy.stores"
+64-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:50:13-35
+65            android:label="Stores Activity"
+65-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:51:13-44
+66            android:parentActivityName="com.example.near_buy.MainActivity" >
+66-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:52:13-55
+67            <meta-data
+67-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:32:13-34:69
+68                android:name="android.support.PARENT_ACTIVITY"
+68-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:33:17-63
+69                android:value="com.example.near_buy.MainActivity" />
+69-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:34:17-66
+70        </activity>
+71        <activity
+71-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:57:9-60:64
+72            android:name="com.example.near_buy.ScrollingActivity"
+72-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:58:13-46
+73            android:label="@string/title_activity_scrolling"
+73-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:59:13-61
+74            android:theme="@style/Theme.Nearbuy.NoActionBar" />
+74-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:60:13-61
+75        <activity android:name="com.example.near_buy.MainActivity" >
+75-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:61:9-67:20
+75-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:61:19-47
+76            <intent-filter>
+76-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:62:13-66:29
+77                <action android:name="android.intent.action.MAIN" />
+77-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:63:17-69
+77-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:63:25-66
+78
+79                <category android:name="android.intent.category.LAUNCHER" />
+79-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:65:17-77
+79-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:65:27-74
+80            </intent-filter>
+81        </activity>
+82        <activity
+82-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:68:9-75:20
+83            android:name="com.example.near_buy.login"
+83-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:69:13-34
+84            android:label="Login Activity"
+84-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:70:13-43
+85            android:parentActivityName="com.example.near_buy.register" >
+85-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:71:13-51
+86            <meta-data
+86-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:32:13-34:69
+87                android:name="android.support.PARENT_ACTIVITY"
+87-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:33:17-63
+88                android:value="com.example.near_buy.register" />
+88-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:34:17-66
+89        </activity>
+90        <activity
+90-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:76:9-83:20
+91            android:name="com.example.near_buy.Seller_main_activity"
+91-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:77:13-49
+92            android:label="Seller Main Activity"
+92-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:78:13-49
+93            android:parentActivityName="com.example.near_buy.MainActivity" >
+93-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:79:13-55
+94            <meta-data
+94-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:32:13-34:69
+95                android:name="android.support.PARENT_ACTIVITY"
+95-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:33:17-63
+96                android:value="com.example.near_buy.MainActivity" />
+96-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:34:17-66
+97        </activity>
+98        <activity
+98-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:84:9-91:20
+99            android:name="com.example.near_buy.add_shop"
+99-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:85:13-37
+100            android:label="Add shop"
+100-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:86:13-37
+101            android:parentActivityName="com.example.near_buy.Seller_main_activity" >
+101-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:87:13-63
+102            <meta-data
+102-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:32:13-34:69
+103                android:name="android.support.PARENT_ACTIVITY"
+103-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:33:17-63
+104                android:value="com.example.near_buy.Seller_main_activity" />
+104-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:34:17-66
+105        </activity>
+106        <activity
+106-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:92:9-95:54
+107            android:name="com.example.near_buy.register"
+107-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:93:13-37
+108            android:label="Register Activity"
+108-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:94:13-46
+109            android:parentActivityName="com.example.near_buy.register" />
+109-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:95:13-51
+110        <activity android:name="com.example.near_buy.add_product_user_activity" />
+110-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:97:9-72
+110-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:97:19-60
+111
+112        <meta-data
+112-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:32:13-34:69
+113            android:name="android.support.PARENT_ACTIVITY"
+113-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:33:17-63
+114            android:value="com.example.near_buy.MainActivity" />
+114-->C:\Users\royma\AndroidStudioProjects\near_buy\app\src\main\AndroidManifest.xml:34:17-66
+115
+116        <activity
+116-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:27:9-44:20
+117            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+117-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:28:13-80
+118            android:excludeFromRecents="true"
+118-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:29:13-46
+119            android:exported="true"
+119-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:30:13-36
+120            android:launchMode="singleTask"
+120-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:31:13-44
+121            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+121-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:32:13-72
+122            <intent-filter>
+122-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:33:13-43:29
+123                <action android:name="android.intent.action.VIEW" />
+123-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:34:17-69
+123-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:34:25-66
+124
+125                <category android:name="android.intent.category.DEFAULT" />
+125-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:17-76
+125-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:27-73
+126                <category android:name="android.intent.category.BROWSABLE" />
+126-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:17-78
+126-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:27-75
+127
+128                <data
+128-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:39:17-42:51
+129                    android:host="firebase.auth"
+129-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:40:21-49
+130                    android:path="/"
+130-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:41:21-37
+131                    android:scheme="genericidp" />
+131-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:42:21-48
+132            </intent-filter>
+133        </activity>
+134        <activity
+134-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:45:9-62:20
+135            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+135-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:46:13-79
+136            android:excludeFromRecents="true"
+136-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:47:13-46
+137            android:exported="true"
+137-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:48:13-36
+138            android:launchMode="singleTask"
+138-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:49:13-44
+139            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+139-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:50:13-72
+140            <intent-filter>
+140-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:51:13-61:29
+141                <action android:name="android.intent.action.VIEW" />
+141-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:34:17-69
+141-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:34:25-66
+142
+143                <category android:name="android.intent.category.DEFAULT" />
+143-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:17-76
+143-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:27-73
+144                <category android:name="android.intent.category.BROWSABLE" />
+144-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:17-78
+144-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:27-75
+145
+146                <data
+146-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:39:17-42:51
+147                    android:host="firebase.auth"
+147-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:40:21-49
+148                    android:path="/"
+148-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:41:21-37
+149                    android:scheme="recaptcha" />
+149-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:42:21-48
+150            </intent-filter>
+151        </activity>
+152
+153        <service
+153-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:64:9-73:19
+154            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+154-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:65:13-101
+155            android:enabled="true"
+155-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:66:13-35
+156            android:exported="false" >
+156-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:67:13-37
+157            <intent-filter>
+157-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:68:13-72:29
+158                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+158-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:69:17-89
+158-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:69:25-86
+159
+160                <category android:name="android.intent.category.DEFAULT" />
+160-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:17-76
+160-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:27-73
+161            </intent-filter>
+162        </service>
+163        <service
+163-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:74:9-80:19
+164            android:name="com.google.firebase.components.ComponentDiscoveryService"
+164-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:75:13-84
+165            android:directBootAware="true"
+165-->[com.google.firebase:firebase-common:19.5.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+166            android:exported="false" >
+166-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:76:13-37
+167            <meta-data
+167-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:77:13-79:85
+168                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+168-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:78:17-109
+169                android:value="com.google.firebase.components.ComponentRegistrar" />
+169-->[com.google.firebase:firebase-auth:20.0.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1e516b41c11a3c77410f7ed5454fe678\jetified-firebase-auth-20.0.1\AndroidManifest.xml:79:17-82
+170            <meta-data
+170-->[com.google.firebase:firebase-database:19.6.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1ac55671c19017fc13671c13ed97e475\jetified-firebase-database-19.6.0\AndroidManifest.xml:32:13-34:85
+171                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+171-->[com.google.firebase:firebase-database:19.6.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1ac55671c19017fc13671c13ed97e475\jetified-firebase-database-19.6.0\AndroidManifest.xml:33:17-109
+172                android:value="com.google.firebase.components.ComponentRegistrar" />
+172-->[com.google.firebase:firebase-database:19.6.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\1ac55671c19017fc13671c13ed97e475\jetified-firebase-database-19.6.0\AndroidManifest.xml:34:17-82
+173            <meta-data
+173-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:33:13-35:85
+174                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+174-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:34:17-107
+175                android:value="com.google.firebase.components.ComponentRegistrar" />
+175-->[com.google.firebase:firebase-storage:19.2.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\3c49246819d89d16c5086085c5a36d4c\jetified-firebase-storage-19.2.1\AndroidManifest.xml:35:17-82
+176            <meta-data
+176-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\9001e637591bf99550f9534257e99161\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:30:13-32:85
+177                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+177-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\9001e637591bf99550f9534257e99161\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:31:17-139
+178                android:value="com.google.firebase.components.ComponentRegistrar" />
+178-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\9001e637591bf99550f9534257e99161\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:32:17-82
+179            <meta-data
+179-->[com.google.firebase:firebase-installations:16.3.4] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\25cc831f1bf7a761536517aab3350bc7\jetified-firebase-installations-16.3.4\AndroidManifest.xml:18:13-20:85
+180                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+180-->[com.google.firebase:firebase-installations:16.3.4] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\25cc831f1bf7a761536517aab3350bc7\jetified-firebase-installations-16.3.4\AndroidManifest.xml:19:17-127
+181                android:value="com.google.firebase.components.ComponentRegistrar" />
+181-->[com.google.firebase:firebase-installations:16.3.4] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\25cc831f1bf7a761536517aab3350bc7\jetified-firebase-installations-16.3.4\AndroidManifest.xml:20:17-82
+182            <!--
+183                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+184                clients to use it as well, by defining this registrar in their own core/common library.
+185            -->
+186            <meta-data
+186-->[com.google.firebase:firebase-common:19.5.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+187                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+187-->[com.google.firebase:firebase-common:19.5.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+188                android:value="com.google.firebase.components.ComponentRegistrar" />
+188-->[com.google.firebase:firebase-common:19.5.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+189        </service>
+190
+191        <activity
+191-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\676f483ead82b2750302cc89c7fbf5f1\jetified-play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+192            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+192-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\676f483ead82b2750302cc89c7fbf5f1\jetified-play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+193            android:excludeFromRecents="true"
+193-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\676f483ead82b2750302cc89c7fbf5f1\jetified-play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+194            android:exported="false"
+194-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\676f483ead82b2750302cc89c7fbf5f1\jetified-play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+195            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+195-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\676f483ead82b2750302cc89c7fbf5f1\jetified-play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+196        <!--
+197            Service handling Google Sign-In user revocation. For apps that do not integrate with
+198            Google Sign-In, this service will never be started.
+199        -->
+200        <service
+200-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\676f483ead82b2750302cc89c7fbf5f1\jetified-play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+201            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+201-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\676f483ead82b2750302cc89c7fbf5f1\jetified-play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+202            android:exported="true"
+202-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\676f483ead82b2750302cc89c7fbf5f1\jetified-play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+203            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+203-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\676f483ead82b2750302cc89c7fbf5f1\jetified-play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+204            android:visibleToInstantApps="true" />
+204-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\676f483ead82b2750302cc89c7fbf5f1\jetified-play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+205
+206        <receiver
+206-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:29:9-33:20
+207            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+207-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:30:13-85
+208            android:enabled="true"
+208-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:31:13-35
+209            android:exported="false" >
+209-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:32:13-37
+210        </receiver>
+211
+212        <service
+212-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:35:9-38:40
+213            android:name="com.google.android.gms.measurement.AppMeasurementService"
+213-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:36:13-84
+214            android:enabled="true"
+214-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:37:13-35
+215            android:exported="false" />
+215-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:38:13-37
+216        <service
+216-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:39:9-43:72
+217            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+217-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:40:13-87
+218            android:enabled="true"
+218-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:41:13-35
+219            android:exported="false"
+219-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:42:13-37
+220            android:permission="android.permission.BIND_JOB_SERVICE" />
+220-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d535ddb9b282b7dfd1ae98643f85d9b9\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:43:13-69
+221
+222        <activity
+222-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+223            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+223-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+224            android:exported="false"
+224-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+225            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+225-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+226
+227        <provider
+227-->[com.google.firebase:firebase-common:19.5.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+228            android:name="com.google.firebase.provider.FirebaseInitProvider"
+228-->[com.google.firebase:firebase-common:19.5.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+229            android:authorities="com.example.near_buy.firebaseinitprovider"
+229-->[com.google.firebase:firebase-common:19.5.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+230            android:directBootAware="true"
+230-->[com.google.firebase:firebase-common:19.5.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+231            android:exported="false"
+231-->[com.google.firebase:firebase-common:19.5.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+232            android:initOrder="100" />
+232-->[com.google.firebase:firebase-common:19.5.0] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\d783eb5e4d25e462c5ff8a9ddfc544e8\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+233
+234        <meta-data
+234-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\fddb1ae14a7a9b9a3acdaeb1009a8259\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+235            android:name="com.google.android.gms.version"
+235-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\fddb1ae14a7a9b9a3acdaeb1009a8259\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+236            android:value="@integer/google_play_services_version" />
+236-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\royma\.gradle\caches\transforms-2\files-2.1\fddb1ae14a7a9b9a3acdaeb1009a8259\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+237    </application>
+238
+239</manifest>

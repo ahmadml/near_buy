@@ -1,0 +1,1238 @@
+[
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_gps.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_gps.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_location.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_location.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_store.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\fragment_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_user_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_user_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mail_whit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_mail_whit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_user_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_user_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mail_whit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_mail_whit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\font_arbutus.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\font\\arbutus.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_storefront_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_storefront_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\navigation_my_nav.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\navigation\\my_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_prodact_primary.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_prodact_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rec02.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable\\shape_rec02.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_prodact_whit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_prodact_whit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_login_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_login_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_stores.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\activity_stores.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_security_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_security_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_store_row.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\store_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_map_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_map_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_user_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_user_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_phone_iphone_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_phone_iphone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_prodact_primary.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_prodact_primary.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_person.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_person.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mall_background2.jpg.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable-v24\\mall_background2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_phone_iphone_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_phone_iphone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_map_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_map_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_seller.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\activity_register_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_location.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_location.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_map_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_map_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_store_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_store_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_filter_list_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_filter_list_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_shopping_cart_24_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_shopping_cart_24_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_lock_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_location.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_items.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\activity_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_local_phone_white.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_local_phone_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_home_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_fastfood_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_fastfood_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_phone_iphone_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_phone_iphone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_remove_prod.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_remove_prod.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_location.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_location.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_prodact_whit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_prodact_whit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_edit.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_phone_iphone_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_phone_iphone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_shopping_cart_24_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_shopping_cart_24_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_remove_prod.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_remove_prod.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_remove_prod.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_remove_prod.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_highlight_alt_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_highlight_alt_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_gps.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_gps.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_home_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_map_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_map_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_fastfood_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_fastfood_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_user_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_user_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_home_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_arrow_back_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_arrow_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_arrow_back_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_arrow_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_shopping_cart_24_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_shopping_cart_24_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_highlight_alt_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_highlight_alt_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_gps.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_gps.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lock_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lock_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_login_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_login_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_map_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_map_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_phone_iphone_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_phone_iphone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_highlight_alt_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_highlight_alt_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_gps.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_gps.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_shopping_cart_24_white.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_shopping_cart_24_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_user_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_user_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_local_phone_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_local_phone_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_highlight_alt_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_highlight_alt_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_map_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_map_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_lock_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lock_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_local_phone_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_local_phone_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_sort_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_sort_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rec01.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable\\shape_rec01.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\font_amarante.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\font\\amarante.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_more_vert_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_highlight_alt_black.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_highlight_alt_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_prodact_primary.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_prodact_primary.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_person.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_person.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_local_phone_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_local_phone_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_local_phone_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_local_phone_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_location.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_location.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_shopping_cart_24_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_shopping_cart_24_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chipotle.jpg.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable-v24\\chipotle.jpg"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_remove_prod.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_remove_prod.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_arrow_back_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_arrow_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_email_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_person.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_person.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_decrease.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_decrease.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_login_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_login_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_groceriesa.jpg.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable-v24\\groceriesa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_products_for_seller.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\row_products_for_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_products_for_cart.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\row_products_for_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_security_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_security_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_prodact_whit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_prodact_whit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_unsigned_user.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\fragment_unsigned_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_email_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_gps.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_gps.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_security_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_security_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lock_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_arrow_back_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_arrow_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_highlight_alt_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_highlight_alt_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_shop.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\row_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_user_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_user_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shepe_circle01.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable\\shepe_circle01.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_user.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\activity_main_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_mail_whit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_mail_whit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_remove_prod.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_remove_prod.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_highlight_alt_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_highlight_alt_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_product.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\activity_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lock_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_lock_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_gps.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_gps.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_storefront_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_storefront_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_shopping_cart_24_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_shopping_cart_24_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_logut.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_logut.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_sort_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_sort_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_phone_iphone_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_phone_iphone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_prodact_primary.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_prodact_primary.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_scrolling.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_person.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_fastfood_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_fastfood_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_shopping_cart_24_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_shopping_cart_24_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_decrease.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_decrease.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_store_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_store_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_prodact_whit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_prodact_whit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logut.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_logut.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_toys_are_mine.jpg.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable-v24\\toys_are_mine.jpg"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_store_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_store_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pasta.jpg.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable\\pasta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mail_whit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mail_whit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_person.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_person.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_decrease.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_decrease.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_prodact_primary.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_prodact_primary.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_seller.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\activity_main_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_delete_dialog.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\delete_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_email_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_email_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scrolling.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\activity_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_fastfood_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_fastfood_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_logut.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_logut.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cart.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_filter_list_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_filter_list_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_user_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_user_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_decrease.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_decrease.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_filter_list_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_filter_list_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_filter_list_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_filter_list_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_fastfood_black.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_fastfood_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_storefront_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_storefront_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_email_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mail_whit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_mail_whit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_map_white.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_map_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_decrease.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_decrease.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_arrow_back_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_arrow_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_phone_iphone_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_phone_iphone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_prodact_whit.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_prodact_whit.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_filter_list_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_filter_list_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_arrow_back_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_arrow_back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lock_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_logut.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_logut.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_store_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_store_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_sort_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_sort_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background.jpg.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable-v24\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_filter_list_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_filter_list_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_login_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_login_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_login_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_scrolling.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_images.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable\\images.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_location.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_location.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_security_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_security_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_email_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_prodact_whit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_prodact_whit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_logut.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_logut.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_security_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_security_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eggs.jpg.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable\\eggs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_lock_black.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lock_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_storefront_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_storefront_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_sort_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_sort_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_security_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_home_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logut.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_logut.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_login_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_login_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_shop_layout.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\add_shop_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_quantity.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\dialog_quantity.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_local_phone_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_local_phone_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_davids_fishhouse.jpg.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable-v24\\davids_fishhouse.jpg"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_remove_prod.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_remove_prod.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_store_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_store_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_home_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_filter_list_black.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_filter_list_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_prodact_primary.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_prodact_primary.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_store_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_store_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_sort_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_sort_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_storefront_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_storefront_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_storefront_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_storefront_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_sort_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_sort_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_stores.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\content_stores.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mail_whit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mail_whit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_mail_whit.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mail_whit.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_single_store.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\activity_single_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_person.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_person.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_seller_main.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\seller_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bread_png.jpg.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable\\bread_png.jpg"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_fastfood_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_fastfood_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_location.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_location.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_gps.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_gps.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_a_store.jpg.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable-v24\\a_store.jpg"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_decrease.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_decrease.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ovad_sabich.jpg.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable-v24\\ovad_sabich.jpg"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_store_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_store_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_products.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\row_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_storefront_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_storefront_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_decrease.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_decrease.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_security_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_security_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_prodact_primary.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_prodact_primary.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_login_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_login_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_person.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_person.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_home_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mylogo.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\drawable-v24\\mylogo.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_fastfood_black.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_fastfood_black.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_remove_prod.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_remove_prod.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shop_details.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\src\\main\\res\\layout\\activity_shop_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_prodact_whit.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_prodact_whit.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_arrow_back_white.xml.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_arrow_back_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logut.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_logut.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_local_phone_white.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_local_phone_white.png"
+    },
+    {
+        "merged": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_sort_24.png.flat",
+        "source": "C:\\Users\\royma\\AndroidStudioProjects\\near_buy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_sort_24.png"
+    }
+]

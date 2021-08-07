@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainSellerActivity">
+
+    <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="80dp"
+      android:padding="10dp"
+        android:id="@+id/main"
+      android:background="@drawable/shape_rec01">
+
+        <TextView
+            android:id="@+id/nameTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Seller"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="20dp"/>
+
+        <ImageButton
+            android:id="@+id/logutBtn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_logut"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:background="@null"/>
+
+        <ImageButton
+            android:id="@+id/editProfileBtn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_edit"
+            android:layout_toStartOf="@+id/logutBtn"
+            android:background="@null"
+            android:layout_toLeftOf="@+id/logutBtn" />
+
+
+        <ImageButton
+            android:id="@+id/addProductBtn"
+            android:layout_width="41dp"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/editProfileBtn"
+            android:layout_alignLeft="@+id/editProfileBtn"
+            android:layout_marginStart="-48dp"
+            android:layout_marginLeft="-48dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:src="@drawable/ic_add_prodact_whit" />
+
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/showProducts3"
+        android:layout_below="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:listitem="@layout/row_products_for_seller"/>
+
+
+
+
+</RelativeLayout>
